@@ -18,6 +18,6 @@ Which permits people to earn the Ethereum via the use of their mind.
 
 
 
-![Example Roadmap oustline](https://ark.io/roadmap)
+![Example Roadmap outline](http://www.ark.io/roadmap)
 
 ![Example Apps Roadmap](https://github.com/steemit)
