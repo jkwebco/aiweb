@@ -1,0 +1,1 @@
+Wordpress files belong here.
