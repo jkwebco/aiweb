@@ -35,3 +35,13 @@ Training the AI
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=SrWJ1Mgn_hc
 " target="_blank"><img src="http://img.youtube.com/vi/SrWJ1Mgn_hc/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>....Where you at D
+.
+.
+.
+.<a href="http://www.youtube.com/watch?feature=player_embedded&v=QE2reuannWI
+" target="_blank"><img src="http://img.youtube.com/vi/QE2reuannWI/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+
+
+
