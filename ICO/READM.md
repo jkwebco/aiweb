@@ -11,7 +11,7 @@ The ICO crowdsale contract address
 
 The ethereum address of your ICO crowdsale contract. It is the address EthereumICO plugin sends Ether to.
 
-Read the steem whitepaper https://steem.io/steem-whitepaper.pdf
+![Read the steem whitepaper](https://steem.io/steem-whitepaper.pdf)
 
 Steem is a blockchain database that supports community building and social interaction with cryptocurrency
 rewards. Steem combines concepts from social media with lessons learned from building cryptocurrencies
@@ -20,8 +20,8 @@ market economy is a fair accounting system that consistently reflects each perso
 is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of
 individuals who make subjective contributions  to its community.
  
-Crowdfunding with Ethereum https://www.ethereum.org/crowdsale
-EthereumICO Plugin https://wordpress.org/plugins/ethereumico/
+![Crowdfunding with Ethereum](https://www.ethereum.org/crowdsale)
+![EthereumICO Plugin](https://wordpress.org/plugins/ethereumico/)
 
 A protocol for permitting smart, social foreign money for publishers and content companies across the internet Introduction
 
