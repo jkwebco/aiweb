@@ -47,7 +47,7 @@ Features:
     Automatically append stamps on frontend (except user stamps)
     Publicly show or hide intermediary stamping states
     Confirm all transactions through independent block explorers
-    Public or private stamp certificates
+    [Public or private stamp certificates](https://stampd.io/)
     Certificate header customization
     Visual hash trees
     Full backend integration (adminbar, listings and edition pages)
