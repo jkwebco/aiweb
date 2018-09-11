@@ -54,4 +54,4 @@ Features:
     Translated in English and Spanich (translatable through .po files)
     Can be used on several website
 
-![Read WP Blockchain description](https://wordpress.org/plugins/wp-blockchain/)
+[Read WP Blockchain description](https://wordpress.org/plugins/wp-blockchain/)
