@@ -47,11 +47,12 @@ Features:
     Automatically append stamps on frontend (except user stamps)
     Publicly show or hide intermediary stamping states
     Confirm all transactions through independent block explorers
-    ![Public or private stamp certificates](https://stampd.io/)
-    Certificate header customization
+    Public or private stamp certificates
     Visual hash trees
     Full backend integration (adminbar, listings and edition pages)
     Translated in English and Spanich (translatable through .po files)
     Can be used on several website
 
 [Read WP Blockchain description](https://wordpress.org/plugins/wp-blockchain/)
+
+[Public or private stamp certificates](https://stampd.io/)
