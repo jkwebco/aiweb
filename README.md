@@ -34,7 +34,12 @@ In addition to those improvements in blockchain and token generation, AIWEB as a
 Training the AI
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=SrWJ1Mgn_hc
 " target="_blank"><img src="http://img.youtube.com/vi/SrWJ1Mgn_hc/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>....Where you at D
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+.
+.
+.
+.
+Where you at D
 .
 .
 .
