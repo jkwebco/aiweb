@@ -1,1 +1,1 @@
-![Wizards](http://wizards.herokuapp.com/)
+[Wizards](http://wizards.herokuapp.com/)
